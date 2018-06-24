@@ -1,6 +1,6 @@
 # Melon Cartel
 
-![Melon Cartel](meloncartel.png =250x)
+![Melon Cartel](meloncartel.png)
 
 # Reporting an issue
 To report a bug head over to the [issues tab](https://github.com/b3none/meloncartel/issues) and enter as much detail as possible about the problem.
